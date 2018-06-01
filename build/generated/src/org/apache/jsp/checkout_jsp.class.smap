@@ -1,0 +1,13 @@
+SMAP
+checkout_jsp.java
+JSP
+*S JSP
+*F
++ 0 checkout.jsp
+checkout.jsp
++ 1 footer.jsp
+includes/footer.jsp
+*L
+4,13:52
+4#1,25:65
+*E

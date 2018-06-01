@@ -1,0 +1,16 @@
+SMAP
+balancesource_jsp.java
+JSP
+*S JSP
+*F
++ 0 balancesource.jsp
+balancesource.jsp
++ 1 admin_footer.jsp
+admin_includes/admin_footer.jsp
+*L
+4,13:52
+16,13:65
+29,14:79
+42,3:93
+4#1,36:96
+*E

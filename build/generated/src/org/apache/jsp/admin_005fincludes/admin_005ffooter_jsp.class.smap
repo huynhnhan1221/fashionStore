@@ -1,0 +1,10 @@
+SMAP
+admin_005ffooter_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_footer.jsp
+admin_includes/admin_footer.jsp
+*L
+5,47:44
+*E

@@ -1,0 +1,15 @@
+SMAP
+search_005fbox_jsp.java
+JSP
+*S JSP
+*F
++ 0 search_box.jsp
+includes/search_box.jsp
+*L
+4,43:48
+47,7:92
+53,2:99
+55:101,6
+56:107,3
+57,28:110
+*E

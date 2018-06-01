@@ -1,0 +1,51 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 header.jsp
+includes/header.jsp
++ 2 top_menu.jsp
+includes/top_menu.jsp
++ 3 sidebar_left.jsp
+includes/sidebar_left.jsp
++ 4 menu_today.jsp
+includes/menu_today.jsp
++ 5 search_box.jsp
+includes/search_box.jsp
++ 6 footer.jsp
+includes/footer.jsp
+*L
+4,4:61
+4#1,9:64
+12:73
+7#0,100:74
+4#2,7:174
+11:181,3
+12,6:184
+18:190,3
+19,7:193
+26:200,3
+27,2:203
+106#0,4:205
+5#3,9:209
+15,5:220
+19:225
+20:226,6
+21:232,3
+22,15:235
+109#0,4:250
+4#4,24:254
+112#0,26:277
+4#5,43:303
+47,7:347
+53,2:354
+55:356,6
+56:362,3
+57,28:365
+137#0,11:393
+4#6,25:404
+147#0:428
+*E

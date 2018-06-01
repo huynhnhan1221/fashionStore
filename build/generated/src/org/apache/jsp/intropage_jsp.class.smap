@@ -1,0 +1,18 @@
+SMAP
+intropage_jsp.java
+JSP
+*S JSP
+*F
++ 0 intropage.jsp
+intropage.jsp
++ 1 admin_header.jsp
+admin_includes/admin_header.jsp
++ 2 admin_footer.jsp
+admin_includes/admin_footer.jsp
+*L
+4,54:53
+57,5:107
+4#1,70:111
+61#0,11:181
+4#2,36:191
+*E
